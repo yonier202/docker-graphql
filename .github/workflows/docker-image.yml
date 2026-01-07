@@ -31,8 +31,8 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push yonier202/docker-graphql:0.0.2 .
-    
+        docker push yonier202/docker-graphql:0.0.2
+  
         
         
         
